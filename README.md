@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
 <!--
 **GiovanniDw/GiovanniDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
