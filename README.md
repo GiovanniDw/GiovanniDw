@@ -14,10 +14,10 @@ My name is
 
 
 <a href="https://github.com/GiovanniDw?tab=repositories">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
 </a>
 <a href="https://github.com/GiovanniDw">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
 </a>
 
 
