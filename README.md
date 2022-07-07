@@ -11,6 +11,16 @@ My name is
  \____|_|\___/ \_/ \__,_|_| |_|_| |_|_|____/  \_/\_/
 
 ```
+<a href="https://github.com/GiovanniDw?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+</a>
+<br>
+<br>
+<a href="https://github.com/GiovanniDw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
+</a>
+
+
 
 <!--
 **GiovanniDw/GiovanniDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
