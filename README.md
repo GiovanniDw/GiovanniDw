@@ -13,10 +13,10 @@ My name is
 ```
 
 <a href="https://github.com/GiovanniDw">
-  <img align="center" width="56.5%" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
+  <img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/GiovanniDw?tab=repositories">
-  <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
 </a>
 
 
