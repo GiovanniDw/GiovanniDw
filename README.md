@@ -12,14 +12,53 @@ $ whoami
 
 ```
 
+<!-- 
 <a href="https://github.com/GiovanniDw">
+  <img align="center" width="56%" style="max-width: 100%;">
+</a> 
+
+
+<a href="https://github.com/GiovanniDw?tab=repositories">
+  <img align="center" width="42%" style="max-width: 100%;">
+</a>
+
+-->
+<!-- 
+
+
+<a width="56%" href="https://github.com/GiovanniDw">
   <img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/GiovanniDw?tab=repositories">
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+<a width="42%" href="https://github.com/GiovanniDw?tab=repositories">
+<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+</a> -->
+
+<a href="https://github.com/GiovanniDw">
+<picture align="center" width="56%">
+<source align="center" width="56%"
+  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source align="center" width="56%"
+  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
+</picture>
+  </a>
+  <a href="https://github.com/GiovanniDw?tab=repositories">
+<picture align="center" width="42%" >
+<source align="center" width="42%"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source align="center" width="42%"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img  align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDw&layout=compact&langs_count=6" />
+</picture>
 </a>
-
-
 
 
 <!--
