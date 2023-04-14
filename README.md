@@ -36,14 +36,14 @@ $ whoami
 <a href="https://github.com/GiovanniDw">
 <picture align="center" width="56%">
 <source align="center" width="56%"
-  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true&theme=dark&include_all_commits=true"
   media="(prefers-color-scheme: dark)"
 />
 <source align="center" width="56%"
-  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true&include_all_commits=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=GiovanniDw&show_icons=true&count_private=true&include_all_commits=true" />
 </picture>
   </a>
   <a href="https://github.com/GiovanniDw?tab=repositories">
